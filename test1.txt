@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is EC20-BF9E
-
- Directory of D:\Projects
-
-30-12-2020  12:06    <DIR>          .
-30-12-2020  12:06    <DIR>          ..
-30-12-2020  12:06                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  991,638,290,432 bytes free
+Change 1
